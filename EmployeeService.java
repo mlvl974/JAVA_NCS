@@ -36,7 +36,7 @@ public class EmployeeService {
 			return "Mumbai";
 		case "080":
 			return "Bangalore";
-		case "0":
+		case "020":
 			return "Pune";
 		default:
 			return "";
